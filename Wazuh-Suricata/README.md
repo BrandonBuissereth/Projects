@@ -28,8 +28,3 @@ This project demonstrates the setup and integration of:
 * Linux
 * YAML
 * Bash
-
-## Status
-
-In progress.
-
