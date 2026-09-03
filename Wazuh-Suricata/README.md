@@ -11,13 +11,13 @@ This project demonstrates the setup and integration of:
 * Ubuntu Server as the monitoring environment
 * VMware Workstation for virtualization
 
-## Project Goals
+## Project achievements 
 
-* Configure a security monitoring environment
-* Generate and capture security-related network events
-* Integrate Suricata alerts with Wazuh
-* Analyze detected events through the Wazuh dashboard
-* Document the configuration, testing, and results
+* Configured a security monitoring environment
+* Generated and capture security-related network events
+* Integrated Suricata alerts with Wazuh
+* Analyzed detected events through the Wazuh dashboard
+* Documented the configuration, testing, and results
 
 ## Technologies
 
