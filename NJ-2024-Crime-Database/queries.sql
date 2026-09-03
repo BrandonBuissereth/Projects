@@ -1,3 +1,4 @@
+-- Query 1
 SELECT
     a.county,
     COUNT(DISTINCT i.incident_id) AS total_incidents,
