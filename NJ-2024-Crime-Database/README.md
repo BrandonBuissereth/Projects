@@ -1,5 +1,7 @@
 # NJ 2024 Crime Database
 
+**Group Project**
+
 A relational database project analyzing 2024 crime data from New Jersey.
 
 ## Overview
